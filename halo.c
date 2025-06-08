@@ -1,5 +1,5 @@
 /* File halo.c */
-/* Penulis: Muhammad Rizky Aulia Ramadhan */
+/* Penulis : Muhammad Rizky Aulia Ramadhan */
 /* Program menuliskan "Halo Dunia!" dan "end-of-line" (ganti baris) */
 
 #include <stdio.h>
